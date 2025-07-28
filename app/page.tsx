@@ -49,7 +49,7 @@ export default function BusinessCard() {
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.13%20(1).jpeg?updatedAt=1753670651314",
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.13.jpeg?updatedAt=1753670651387",
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.14.jpeg?updatedAt=1753670651339",
-    "hhttps://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.14%20(1).jpeg?updatedAt=1753670651394",
+    "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.14%20(1).jpeg?updatedAt=1753670651394",
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.03.14%20(2).jpeg?updatedAt=1753670651230",
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.04.28%20(1).jpeg?updatedAt=1753670655456",
     "https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2012.04.28.jpeg?updatedAt=1753670655386",
@@ -190,7 +190,7 @@ END:VCARD`;
         <div className="px-6 py-4 bg-white border-b">
           <div className="flex justify-center space-x-4">
             <button className="p-2 border border-gray-200 rounded-full hover:bg-blue-50 hover:border-blue-300 transition-all duration-300"
-            onClick={() => window.open('https://wa.me/+919945466887', '_blank')}>
+            onClick={() => window.open('https://wa.me/+919535953169', '_blank')}>
               <MessageCircleCode className="w-4 h-4 text-blue-600" />
             </button>
             <button className="p-2 border border-gray-200 rounded-full hover:bg-blue-50 hover:border-blue-300 transition-all duration-300"
@@ -762,7 +762,7 @@ END:VCARD`;
               <div className="relative w-32 h-32 flex-shrink-0">
                 <div className="absolute inset-0 bg-gradient-to-br from-amber-400 to-amber-600 rounded-full transform rotate-6"></div>
                 <img
-                  src="https://static.wixstatic.com/media/f55b92_c42b7a50245d4a08ae36542ccfaf1c64~mv2.png" 
+                  src="https://ik.imagekit.io/9xuslizm5i/b2/WhatsApp%20Image%202025-07-24%20at%2011.55.38.jpeg?updatedAt=1753672055672" 
                   alt="Founder"
                   className="relative w-full h-full rounded-full object-cover border-4 border-white shadow-lg"
                 />
@@ -795,7 +795,7 @@ END:VCARD`;
                   </svg>
                 </div>
                 <p className="italic text-gray-700 pl-6">
-                  At D&apos;adore, we don&apos;t just design spaces—we craft the backdrop for life&apos;s most meaningful moments
+                  At V Interior, we don&apos;t just design spaces—we craft the backdrop for life&apos;s most meaningful moments
                 </p>
               </div>
             </div>
