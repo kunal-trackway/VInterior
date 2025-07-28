@@ -534,7 +534,7 @@ END:VCARD`;
             Since 2017, V Interior has been transforming spaces across the region with our signature blend of luxury and functionality. Our award-winning team of designers specializes in creating bespoke residential interiors that reflect each client&apos;s personality while enhancing everyday living.
           </p>
           
-          <div className="relative bg-gradient-to-r from-sky-500 to-red-600 p-8 text-white text-center rounded-lg">
+          <div className="relative bg-gradient-to-r from-sky-400 via-black to-red-600 via-black to-orange-500 p-8 text-white text-center rounded-lg">
           <div className="absolute inset-0 bg-black/10"></div>
           <div className="relative z-10">
             <div className="w-24 h-24 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center backdrop-blur-sm overflow-hidden border-2 border-white/30 shadow-lg">
