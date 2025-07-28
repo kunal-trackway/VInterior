@@ -194,11 +194,11 @@ END:VCARD`;
               <MessageCircleCode className="w-4 h-4 text-blue-600" />
             </button>
             <button className="p-2 border border-gray-200 rounded-full hover:bg-blue-50 hover:border-blue-300 transition-all duration-300"
-            onClick={() => window.open('https://www.instagram.com/dadore.in/', '_blank')}>
+            onClick={() => window.open('https://www.instagram.com/', '_blank')}>
               <Instagram className="w-4 h-4 text-sky-500" />
             </button>
             <button className="p-2 border border-gray-200 rounded-full hover:bg-blue-50 hover:border-blue-300 transition-all duration-300"
-            onClick={() => window.open('https://www.facebook.com/dadore.interiors.5/', '_blank')}>
+            onClick={() => window.open('https://www.facebook.com/', '_blank')}>
               <Facebook className="w-4 h-4 text-blue-700" />
             </button>
           </div>
