@@ -675,7 +675,7 @@ END:VCARD`;
                   </div>
                   <div className="relative">
                     <p className={`text-gray-600 italic transition-all duration-300 ${!expanded.testimonial1 ? 'line-clamp-3' : ''}`}>
-                      &quot;I recently had the pleasure of working with Sagar on our home renovation project. From start to finish, Sagar was professional, creative and a true pleasure to work with. His attention to detail and ability to bring our vision to life exceeded our expectations. He has a great sense of style and was able to seamlessly blend our personal taste&apos;s with his organisations own expertise to create a beautiful, iconic space. The complete Dadore team was also very responsive and communicative throughout the process, ensuring that everything was running smoothly and that we were happy with the progress. I highly recommend Sagar and Dadore to anyone looking for a talented and professional interior designer. They truly made our home a beautiful abode and I couldn&apos;t be happier with the results. Thank you Sagar!&quot;
+                      &quot;I recently had the pleasure of working with Sagar on our home renovation project. From start to finish, Sagar was professional, creative and a true pleasure to work with. His attention to detail and ability to bring our vision to life exceeded our expectations. He has a great sense of style and was able to seamlessly blend our personal taste&apos;s with his organisations own expertise to create a beautiful, iconic space. The complete V Interior team was also very responsive and communicative throughout the process, ensuring that everything was running smoothly and that we were happy with the progress. I highly recommend Sagar and raj to anyone looking for a talented and professional interior designer. They truly made our home a beautiful abode and I couldn&apos;t be happier with the results. Thank you Sagar!&quot;
                     </p>
                     <button 
                       onClick={() => setExpanded(prev => ({...prev, testimonial1: !prev.testimonial1}))}
@@ -769,7 +769,7 @@ END:VCARD`;
               </div>
               
               <div className="text-center md:text-left">
-                <h4 className="text-xl font-bold text-gray-800 mb-1">Praveen Gowda</h4>
+                <h4 className="text-2xl font-bold text-gray-800 mb-1">Praveen Gowda</h4>
                 <p className="text-amber-600 font-medium mb-3">Founder</p>
                 <div className="flex justify-center md:justify-start space-x-2 mb-4">
                   <div className="w-8 h-1 bg-amber-400 rounded-full"></div>

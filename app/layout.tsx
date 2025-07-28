@@ -10,6 +10,12 @@ export const metadata: Metadata = {
   keywords: 'V Interior, interior design, residential design, personalized interiors, home decor, interior decorators, quality design services',
   authors: [{ name: 'Praveen Gowda' }],
   viewport: 'width=device-width, initial-scale=1',
+  
+  icons: {
+    icon: 'https://v-interior.vercel.app/favicon.ico',
+    shortcut: 'https://v-interior.vercel.app/favicon.ico', // Optional: For older browsers
+    apple: 'https://v-interior.vercel.app/favicon.ico', // Optional: For iOS devices
+  },
 };
 
 export default function RootLayout({
